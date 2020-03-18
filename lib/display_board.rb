@@ -7,5 +7,5 @@ def display_board(arr1)
   puts "-----------"
   puts " #{arr1[6]} | #{arr1[7]} | #{arr1[8]} "
 end
-board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 display_board(board)
